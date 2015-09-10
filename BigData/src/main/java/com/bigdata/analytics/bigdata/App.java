@@ -52,6 +52,7 @@ public class App
 			System.out.println("This is from A");
 			System.out.println("This is from B");
 			System.out.println("This is conflict1");
+			System.out.println("This is conflict2");
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
