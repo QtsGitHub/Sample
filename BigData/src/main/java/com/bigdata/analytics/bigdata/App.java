@@ -49,8 +49,6 @@ public class App
 			});
 			System.out.println("MR Job success");
 			System.out.println("MR Job completed successfully");
-			System.out.println("MR Job completed succesfully");
-			System.out.println("MR Job success");
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
