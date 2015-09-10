@@ -47,6 +47,7 @@ public class App
 				}
 
 			});
+			System.out.println("MR Job success");
 			System.out.println("MR Job completed successfully");
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
