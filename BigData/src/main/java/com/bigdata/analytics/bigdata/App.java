@@ -50,6 +50,7 @@ public class App
 			System.out.println("MR Job success");
 			System.out.println("MR Job completed successfully");
 			System.out.println("This is from A");
+			System.out.println("This is from B");
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
